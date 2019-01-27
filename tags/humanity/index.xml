@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Humanity on 공대생의 알쓸신잡</title>
+    <link>https://jason9693.github.io/tags/humanity/</link>
+    <description>Recent content in Humanity on 공대생의 알쓸신잡</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://jason9693.github.io/tags/humanity/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>&lt;역사와 통계학-인간은 같은 실수를 반복한다./&gt;</title>
+      <link>https://jason9693.github.io/blog/history_statics/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://jason9693.github.io/blog/history_statics/</guid>
+      <description>중고등학생 시절, 한번쯤은 이말을 들어봤을 것이다. “역사는 현재의 거울이다” 하지만 보통은 그냥 추상적인 말 이거나, 잘난어른들의 멋져보이는 말 따위로 흘려 보내곤 했다.
+뭔가 맞는말 같기도 하지만, 또 뭔가 와닿지가 않는다.
+우리가 고등학교때 배웠던 통계를 생각해보자. 우리는 고등학생때 ‘확률의 통계적 정의’ 라는 것을 배웠다. 교과서에는 다음과 같이 정의되어있다.
+“어떤 시행을 N 번 반복했을 때, N이 무한히 커지면, 상대도수는 일정한 수로 수렴하는데, 이 극한값을 사건 A의 통계적 확률이라 한다.”
+이 말을 조금 쉽게 풀어보자.</description>
+    </item>
+    
+  </channel>
+</rss>
