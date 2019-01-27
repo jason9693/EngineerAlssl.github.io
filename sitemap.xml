@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jason9693.github.io/blog/why_engineering/</loc>
+    <lastmod>2019-01-27T17:02:48+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jason9693.github.io/blog/migrate-from-jekyll.fr/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
@@ -54,7 +59,7 @@
   
   <url>
     <loc>https://jason9693.github.io/blog/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2019-01-27T17:02:48+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -110,13 +115,13 @@
   </url>
   
   <url>
-    <loc>https://jason9693.github.io/tags/programming/</loc>
+    <loc>https://jason9693.github.io/categories/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jason9693.github.io/categories/programming/</loc>
+    <loc>https://jason9693.github.io/tags/programming/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
     <priority>0</priority>
   </url>
@@ -138,6 +143,18 @@
   </url>
   
   <url>
+    <loc>https://jason9693.github.io/categories/study/</loc>
+    <lastmod>2019-01-27T17:02:48+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jason9693.github.io/tags/study/</loc>
+    <lastmod>2019-01-27T17:02:48+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jason9693.github.io/tags/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
@@ -155,7 +172,7 @@
   
   <url>
     <loc>https://jason9693.github.io/</loc>
-    <lastmod>2015-10-10T13:07:31+02:00</lastmod>
+    <lastmod>2019-01-27T17:02:48+09:00</lastmod>
     <priority>0</priority>
   </url>
   
