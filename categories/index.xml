@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 공대생의 알쓸신잡</title>
-    <link>https://EngineerAlssl.github.io/categories/</link>
+    <link>https://engineeralssl.github.io/categories/</link>
     <description>Recent content in Categories on 공대생의 알쓸신잡</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://EngineerAlssl.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://engineeralssl.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Humanity</title>
-      <link>https://EngineerAlssl.github.io/categories/humanity/</link>
+      <link>https://engineeralssl.github.io/categories/humanity/</link>
       <pubDate>Sun, 27 Jan 2019 18:15:27 +0900</pubDate>
       
-      <guid>https://EngineerAlssl.github.io/categories/humanity/</guid>
+      <guid>https://engineeralssl.github.io/categories/humanity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Study</title>
-      <link>https://EngineerAlssl.github.io/categories/study/</link>
+      <link>https://engineeralssl.github.io/categories/study/</link>
       <pubDate>Mon, 12 Oct 2015 17:02:48 +0900</pubDate>
       
-      <guid>https://EngineerAlssl.github.io/categories/study/</guid>
+      <guid>https://engineeralssl.github.io/categories/study/</guid>
       <description></description>
     </item>
     
