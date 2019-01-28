@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Humanity on 공대생의 알쓸신잡</title>
-    <link>https://engineeralssl.github.io/tags/humanity/</link>
+    <link>https://jason9693.github.io/engineeralssl/tags/humanity/</link>
     <description>Recent content in Humanity on 공대생의 알쓸신잡</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 27 Jan 2019 18:15:27 +0900</lastBuildDate>
     
-	<atom:link href="https://engineeralssl.github.io/tags/humanity/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jason9693.github.io/engineeralssl/tags/humanity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>&lt; AutoML - Ai가 스스로 찾는 최적의 Ai 신경망/&gt;</title>
-      <link>https://engineeralssl.github.io/blog/automl/</link>
+      <link>https://jason9693.github.io/engineeralssl/blog/automl/</link>
       <pubDate>Sun, 27 Jan 2019 18:15:27 +0900</pubDate>
       
-      <guid>https://engineeralssl.github.io/blog/automl/</guid>
+      <guid>https://jason9693.github.io/engineeralssl/blog/automl/</guid>
       <description>얼마전, ai 학계, 업계를 뒤집어 놓은 사건이 하나 있었다. 바로 autoML 이라는 녀석 때문인데,
 뭐하는 녀석이냐면, Ai 연구자들이 &amp;lsquo;어떻게 하면 가장 성능좋은 신경망을 만들 수 있을까?&amp;rsquo; 하고 연구및 개발하던것을 대신 찾아서 가장 좋은 신경망을 만들어주는 Ai다.
 한마디로 정의하자면, Ai를 만드는 Ai다.
@@ -26,10 +26,10 @@ Auto Keras Gihub 레포지터리</description>
     
     <item>
       <title>&lt;역사와 통계학-인간은 같은 실수를 반복한다./&gt;</title>
-      <link>https://engineeralssl.github.io/blog/history_statics/</link>
+      <link>https://jason9693.github.io/engineeralssl/blog/history_statics/</link>
       <pubDate>Tue, 13 Oct 2015 13:07:31 +0200</pubDate>
       
-      <guid>https://engineeralssl.github.io/blog/history_statics/</guid>
+      <guid>https://jason9693.github.io/engineeralssl/blog/history_statics/</guid>
       <description>중고등학생 시절, 한번쯤은 이말을 들어봤을 것이다. “역사는 현재의 거울이다” 하지만 보통은 그냥 추상적인 말 이거나, 잘난어른들의 멋져보이는 말 따위로 흘려 보내곤 했다.
 뭔가 맞는말 같기도 하지만, 또 뭔가 와닿지가 않는다.
 우리가 고등학교때 배웠던 통계를 생각해보자. 우리는 고등학생때 ‘확률의 통계적 정의’ 라는 것을 배웠다. 교과서에는 다음과 같이 정의되어있다.
