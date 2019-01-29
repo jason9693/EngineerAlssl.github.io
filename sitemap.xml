@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jason9693.github.io/engineeralssl/blog/paper1/</loc>
+    <lastmod>2019-01-29T10:57:02+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jason9693.github.io/engineeralssl/blog/automl/</loc>
     <lastmod>2019-01-27T18:15:27+09:00</lastmod>
   </url>
@@ -18,8 +23,12 @@
   </url>
   
   <url>
+    <loc>https://jason9693.github.io/engineeralssl/blog/democracy/</loc>
+  </url>
+  
+  <url>
     <loc>https://jason9693.github.io/engineeralssl/blog/</loc>
-    <lastmod>2019-01-27T18:15:27+09:00</lastmod>
+    <lastmod>2019-01-29T10:57:02+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -63,8 +72,26 @@
   </url>
   
   <url>
+    <loc>https://jason9693.github.io/engineeralssl/tags/machine-learning/</loc>
+    <lastmod>2019-01-29T10:57:02+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jason9693.github.io/engineeralssl/tags/mathamatics/</loc>
     <lastmod>2015-10-13T13:07:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jason9693.github.io/engineeralssl/tags/music-generator/</loc>
+    <lastmod>2019-01-29T10:57:02+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jason9693.github.io/engineeralssl/categories/paper-review/</loc>
+    <lastmod>2019-01-29T10:57:02+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -96,7 +123,7 @@
   
   <url>
     <loc>https://jason9693.github.io/engineeralssl/</loc>
-    <lastmod>2019-01-27T18:15:27+09:00</lastmod>
+    <lastmod>2019-01-29T10:57:02+09:00</lastmod>
     <priority>0</priority>
   </url>
   
