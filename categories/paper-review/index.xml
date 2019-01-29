@@ -12,12 +12,12 @@
     
     
     <item>
-      <title>[Attention Is All You Need](https://arxiv.org/abs/1706.03762)</title>
+      <title>Attention Is All You Need</title>
       <link>https://jason9693.github.io/engineeralssl/blog/attention_is_all_you_need/</link>
       <pubDate>Tue, 29 Jan 2019 11:12:00 +0900</pubDate>
       
       <guid>https://jason9693.github.io/engineeralssl/blog/attention_is_all_you_need/</guid>
-      <description>  NIPS 2017, cited by 839 1st Author Name &amp;amp; Institute : Vaswani, Google Brain  Keywords  Transformer Encoder &amp;amp; Decoder Scaled-Dot-Product Attention Multi-Head Attention  Contribution  WMT 2014 English-German 번역태스크에서 28.4 BLEU 스코어를 기록. English-French 번역태스크에서는 SOTA 갱신 (41.8) seq2seq의 길이제한 문제(일정길이 이상에서 oom) 해결.  Proposed Architecture Dataset  WMT 2014 English-German dataset  Valuable Relative Works  Sequence to Sequence Learning with Neural Networks BLEU  </description>
+      <description>  Attention Is All You Need NIPS 2017, cited by 839 1st Author Name &amp;amp; Institute : Vaswani, Google Brain  Keywords  Transformer Encoder &amp;amp; Decoder Scaled-Dot-Product Attention Multi-Head Attention  Contribution  WMT 2014 English-German 번역태스크에서 28.4 BLEU 스코어를 기록. English-French 번역태스크에서는 SOTA 갱신 (41.8) seq2seq의 길이제한 문제(일정길이 이상에서 oom) 해결.  Proposed Architecture Dataset  WMT 2014 English-German dataset  Valuable Relative Works  Sequence to Sequence Learning with Neural Networks BLEU  </description>
     </item>
     
     <item>
